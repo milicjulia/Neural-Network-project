@@ -1,2 +1,2 @@
 # Neural-Network-project
-A simple neural network project for classification and regression.
+A neural network group project for the classification of children in a nursery.
